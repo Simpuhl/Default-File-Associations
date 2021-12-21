@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DefaultAssociations>
-  <Association Identifier=".pdf" ProgId="AcroExch.Document.DC" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".pdf" ProgID="AcroExch.Document.DC" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".pdfxml" ProgID="AcroExch.pdfxml" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".acrobatsecuritysettings" ProgID="AcroExch.acrobatsecuritysettings" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".fdf" ProgID="AcroExch.FDFDoc" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".xfdf" ProgID="AcroExch.XFDFDoc" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".xdp" ProgID="AcroExch.XDPDoc" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".pdx" ProgID="PDXFileType" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".api" ProgID="AcroExch.Plugin" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".secstore" ProgID="AcroExch.SecStore" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".html" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".htm" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
   <Association Identifier="http" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
   <Association Identifier="https" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
   <Association Identifier=".csv" ProgId="Excel.CSV" ApplicationName="Excel" />
